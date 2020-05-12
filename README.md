@@ -5,7 +5,7 @@
 
 ## First step
  - create an virtual environment usinf python 3.7 with: 
-       
+   Note: delete my env and migration files to create yours using this readme
        
        py -m venv env
  - run the virtual env and install all dependencies :
