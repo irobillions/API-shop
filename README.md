@@ -35,3 +35,5 @@
  - For that run the with the run.py file
        
         python run.py
+        
+ - check API file to see all API route
