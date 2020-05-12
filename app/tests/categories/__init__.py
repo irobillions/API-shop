@@ -1,0 +1,2 @@
+from .test_add_category import AddCategoryTest
+from .test_listing_categories import ListCategoriesTest
